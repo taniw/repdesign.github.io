@@ -1,5 +1,8 @@
 body { 
 	font-family: Helvetica, sans-serif;
+}
+
+.container {
 	width:1500px;
 	min-width:1315px;
 }
